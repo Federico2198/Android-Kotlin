@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/drawable-v24/icono_eliminar.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/layout/actionbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/layout/activity_comida_favorita.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/layout/cardview_comidas.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/layout/listview_comidas.xml" value="0.228125" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/layout/template.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/layout/template_platillo.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/Desktop/2022/Bootcamp/Completados/AndroidKotlin/Ejercicios/Proyecto1-FedericoMoreira/app/src/main/res/menu/menu_contextual.xml" value="0.24270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
